@@ -110,7 +110,7 @@ Attending the face-to-face meeting is not a new commitment when becoming the SEC
 ### Retreat
 Over the course of the year, it is highly likely there will be an IESG retreat, possible also with the IAB.  It is a 2 – 3 day meetings involving travel.  These are full day commitments with various preparation needed. 
 
-## Exemplary Work Weeks for Roman
+## Exemplary Work Weeks
 My primary strategy is to timebox commitments to ensure progress is made on all required AD tasks.
 
 ### Formal Telechat Week
